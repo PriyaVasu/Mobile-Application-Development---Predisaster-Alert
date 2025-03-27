@@ -15,7 +15,9 @@ Tick! The time is: 2017-02-15 14:55:39.208204
 ### Assam Weather to DB:
 - Code to fetch 7 day's weather forecasting information from IMD for state ASSAM
 - Updation of those data to a mysql database
-![image alt]()
-![image alt]()
+- MYSQL output:
+![image alt](https://github.com/PriyaVasu/Mobile-Application-Development---Predisaster-Alert/blob/5e766afa2334fa414fe0ed1a86bd7752f667bb12/output_mysql.png)
+-Python Result:
+![image alt](https://github.com/PriyaVasu/Mobile-Application-Development---Predisaster-Alert/blob/5e766afa2334fa414fe0ed1a86bd7752f667bb12/result_py.png)
 
 
